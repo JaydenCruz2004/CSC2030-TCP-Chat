@@ -21,7 +21,6 @@ The goal of this project is to demonstrate reliable, real-time communication ove
    ```bash
    git clone https://github.com/JaydenCruz2004/CSC2030-TCP-Chat.git
    cd CSC2030-TCP-Chat
-   ## 📷 Screenshots
 
 ## 📷 Screenshots
 
